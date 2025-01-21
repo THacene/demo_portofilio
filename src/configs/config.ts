@@ -23,7 +23,7 @@ export const siteConfig: {
         type: string;
     };
 } = {
-    baseUrl: 'https://muhammadfiaz.com',
+    baseUrl: 'https://t-hacene.infy.uk',
     author: 'Touari Hacene',
     author_surname: 'Hacene',
     titlePrefix: 'Touari Hacene',
