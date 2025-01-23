@@ -1,4 +1,3 @@
-
 export const siteConfig: {
     baseUrl: string;
     author: string;
@@ -15,7 +14,6 @@ export const siteConfig: {
         medium: string;
         dev: string;
         hashnode: string;
-
     };
     metadata: {
         description: string;
@@ -27,7 +25,8 @@ export const siteConfig: {
     author: 'Touari Hacene',
     author_surname: 'Hacene',
     titlePrefix: 'Touari Hacene',
-    profile_image: '/img/profile_image.jpg', // Updated path    form_id:'https://formspree.io/f/myzynpbr',
+    profile_image: '/img/profile_image.jpg',
+    form_id: 'https://formspree.io/f/myzynpbr', // Corrected placement
     social: {
         email: 'touarihacene.gmail.com',
         twitter: '',
